@@ -1,15 +1,17 @@
----
-
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif"/>
 </p>
----
-## Hi there 👋
-# 🧑‍💻 About Me:
-🎓 I'm currently pursuing a degree in Information Technology at Ho Chi Minh City University of Technology and Education.
-💼 I’m a passionate and adaptable individual who can take on both Frontend Developer and Business Analyst roles — combining technical implementation with analytical thinking to deliver effective digital solutions.
 
----
+<hr>
+
+# Hi there 👋
+
+## 🧑‍💻 About Me
+🎓 I'm currently pursuing a degree in Information Technology at Ho Chi Minh City University of Technology and Education.  
+💼 I’m a passionate and adaptable individual who can take on both **Frontend Developer** and **Business Analyst** roles — combining technical implementation with analytical thinking to deliver effective digital solutions.
+
+<hr>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duong-nguyen-ba83682b3/)
