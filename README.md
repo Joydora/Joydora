@@ -40,13 +40,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Joydora&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Joydora&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joydora&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 
