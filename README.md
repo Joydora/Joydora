@@ -41,12 +41,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
----
-
-### 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=duong142&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
 
 <!--
 **Joydora/Joydora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
