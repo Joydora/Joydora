@@ -1,6 +1,9 @@
+---
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
+---
 ## Hi there 👋
 # 🧑‍💻 About Me:
 🎓 I'm currently pursuing a degree in Information Technology at Ho Chi Minh City University of Technology and Education.
