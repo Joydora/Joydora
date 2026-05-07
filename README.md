@@ -19,7 +19,7 @@
 ---
 
 ### ⚡ Quick Facts:
-🔹 Strong in **Frontend (React, TypeScript, UI/UX)** and **Business Analysis (Requirements, User Stories, Wireframes)**  
+🔹 Strong in **Frontend (React, TypeScript, UI/UX)**
 🔹 Experienced with **Agile/Scrum** and teamwork tools like Jira, Figma, Trello  
 🔹 Interested in bridging **tech and business** for digital transformation projects  
 🔹 Always learning and exploring new technologies 🌱
