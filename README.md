@@ -8,8 +8,7 @@
 
 ## 🧑‍💻 About Me
 🎓 I'm currently pursuing a degree in Information Technology at Ho Chi Minh City University of Technology and Education.  
-💼 I’m a passionate and adaptable individual who can take on both **Frontend Developer** and **Business Analyst** roles — combining technical implementation with analytical thinking to deliver effective digital solutions.
-
+💼 I’m a passionate and adaptable individual who can take on both **Frontend Developer** and **Fullstack Developer** roles.
 <hr>
 
 
